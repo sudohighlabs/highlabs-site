@@ -125,6 +125,7 @@ const links = [
     description:
       "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
     color: "#8EB814",
+    
   },
   {
     text: "Build and Host",
@@ -133,6 +134,8 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
     color: "#663399",
+   
+    
   },
 ]
 
